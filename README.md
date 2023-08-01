@@ -1,4 +1,10 @@
-### Hi there 👋
+###
+<h3 align="left">Social Accounts</h3>
+<p align="left">
+<a href="https://mastodon.social/htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Mastodon-purple?style=Social&logo=Mastodon&logoColor=%23Ffffff&link=https%3A%2F%2Fmastodon.social%2Fhtetoh" alt="Htet's Mastodon Account" /></a>
+<a href="https://facebook.com/lhtetohl" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=Social&logo=Facebook&logoColor=Ffffff&link=https%3A%2F%2Ffacebook.com%2Flhtetohl" alt="Htet's Facebook Account" /></a>
+<a href="https://instagram.com/lhtetohl" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=Social&logo=Facebook&logoColor=Ffffff&link=https%3A%2F%2Ffacebook.com%2Flhtetohl" alt="Htet's Instagram Account" /></a>
+</p>
 
 <!--
 **htetoh/htetoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
