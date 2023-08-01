@@ -2,7 +2,7 @@
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=30&pause=1000&color=FFFFFF&width=435&lines=Hello+I'm+Htet" alt="Typing SVG" /></a>
 </p>
-<h3 align="left">Social Accounts</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://mastodon.social/@htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=Mastodon&logoColor=%23Ffffff&link=https%3A%2F%2Fmastodon.social%2Fhtetoh" alt="Htet's Mastodon Account" /></a>
 <a href="https://reddit.com/u/htet9th" target="blank"><img align="center"src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF&link=https%3A%2F%2Freddit.com%2Fu%2Fhtet9th" alt="Htet's Reddit Account"/></a>
