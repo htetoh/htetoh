@@ -1,4 +1,4 @@
-![Github Header Image](/.github/images/profile.jpg)
+
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=30&pause=1000&color=FFFFFF&width=435&lines=Hello+I'm+Htet" alt="Typing SVG" /></a>
 </p>
