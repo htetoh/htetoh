@@ -9,7 +9,6 @@
 <a href="https://facebook.com/lhtetohl" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=Ffffff&link=https%3A%2F%2Ffacebook.com%2Flhtetohl" alt="Htet's Facebook Account" /></a>
 
 </p>
-![Htet's Github Stats](https://github-readme-stats.vercel.app/api?username=satnaing&theme=tokyonight)
 <!--
 **htetoh/htetoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
