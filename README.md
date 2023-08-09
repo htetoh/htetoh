@@ -1,4 +1,4 @@
-![Htet's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetoh&theme=transparent)
+![Htet's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetoh&theme=tokyonight)
 
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=30&pause=1000&color=FFFFFF&width=435&lines=Hello+I'm+Htet" alt="Typing SVG" /></a>
