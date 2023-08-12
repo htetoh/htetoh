@@ -1,7 +1,4 @@
 ![Htet's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetoh&show_icons=true&theme=transparent)
-
-<p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=30&pause=1000&color=FFFFFF&width=435&lines=Hello+I'm+Htet" alt="Typing SVG" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetoh&label=Profile%20views&color=0e75b6&style=for-the-badge" /></p>
 <h3 align="left">Social:</h3>
