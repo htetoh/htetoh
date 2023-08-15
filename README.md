@@ -3,10 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetoh&label=Profile%20views&color=0e75b6&style=for-the-badge" /></p>
 <h3 align="left">Profiles:</h3>
 <p align="left">
-<a href="https://mastodon.social/@htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=Mastodon&logoColor=%23Ffffff&link=https%3A%2F%2Fmastodon.social%2Fhtetoh" alt="Htet's Mastodon Account" /></a>
-<a href="https://reddit.com/u/htet9th" target="blank"><img align="center"src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF&link=https%3A%2F%2Freddit.com%2Fu%2Fhtet9th" alt="Htet's Reddit Account"/></a>
-  <a href="https://stackoverflow.com/users/15081578/htetoh" target="blank"><img align="center"src="https://img.shields.io/badge/Stackoverflow-gray?style=for-the-badge&logo=Stackoverflow&logoColor=orange&link=https%3A%2F%2Fstackoverflow.com%2" alt="Htet's Stackoverflow" /></a>
-<a href="https://facebook.com/lhtetohl" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=Ffffff&link=https%3A%2F%2Ffacebook.com%2Flhtetohl" alt="Htet's Facebook Account" /></a> </p>
+<a href="https://mastodon.social/@htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&link=https%3A%2F%2Fmastodon.social%2Fhtetoh" alt="Htet's Mastodon Account" /></a>
+<a href="https://reddit.com/u/htet9th" target="blank"><img align="center"src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&link=https%3A%2F%2Freddit.com%2Fu%2Fhtet9th" alt="Htet's Reddit Account"/></a>
+  <a href="https://stackoverflow.com/users/15081578/htetoh" target="blank"><img align="center"src="https://img.shields.io/badge/Stackoverflow-gray?style=for-the-badge&link=https%3A%2F%2Fstackoverflow.com%2" alt="Htet's Stackoverflow" /></a>
+  <a href="https://dev.to/htetoh" target="blank"><img align="center"src="https://img.shields.io/badge/Dev.to-ffffff?style=for-the-badge&link=https%3A%2F%2Fdev.to%2Fhtetoh" alt="Htet's Dev.to" /></a>
+<a href="https://facebook.com/lhtetohl" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&link=https%3A%2F%2Ffacebook.com%2Flhtetohl" alt="Htet's Facebook Account" /></a> </p>
 
 
 <!--
