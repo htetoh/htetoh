@@ -9,7 +9,7 @@
   <a href="https://stackoverflow.com/users/15081578/htetoh" target="blank"><img align="center"src="https://img.shields.io/badge/Stackoverflow-gray?style=for-the-badge&logo=Stackoverflow&logoColor=ffffff&link=https%3A%2F%2Fstackoverflow.com%2" alt="Htet's Stackoverflow" /></a>
 <a href="https://dev.to/htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=Dev.to" alt="Htet'sDev.to" /> </a>
   <br>
-<a href="https://instagram.com/lhtetohl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https%3A%2F%2Ffacebook.com%2Flhtetohl" alt="Htet's Facebook Account" /></a> </p>
+<a href="https://instagram.com/lhtetohl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https%3A%2F%2Ffacebook.com%2Flhtetohl" alt="Htet's Instagram Account" /></a> </p>
 
 
 <!--
