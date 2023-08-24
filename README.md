@@ -1,5 +1,3 @@
-![Htet's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetoh&show_icons=true&theme=transparent)
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetoh&label=Profile%20views&color=0e75b6&style=for-the-badge" /></p>
 <h3 align="left">Profiles:</h3>
 <p align="left">
