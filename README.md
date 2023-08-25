@@ -7,7 +7,7 @@
   <a href="https://dev.to/htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Dev.to-3F3F3F?style=for-the-badge&logo=Dev.to" alt="Htet'sDev.to" /> </a>
 <a href="https://codeberg.org/htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Codeberg-BLUE?style=for-the-badge&logo=Codeberg&logocolor=FFFFFF" alt="Htet's Codeberg" /> </a>
   <a href ="https://htetoh.bio.link" target="blank"><img src="https://img.shields.io/badge/Bio.link-FFFFFF?style=for-the-badge&logo=BioLink&logoColor=000000" alt="Htet's Linkinbio" /> </a>
-  <a href="https://instagram.com/lhtetohl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=FFFFFF" alt="Htet's Instagram Account" /> </a>
+<a href="https://instagram.com/lhtetohl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=FFFFFF" alt="Htet's Instagram Account" /> </a>
 </p>
 
 
