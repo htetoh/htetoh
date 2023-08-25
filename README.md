@@ -6,7 +6,7 @@
   <a href="https://reddit.com/u/htet9th" target="blank"><img align="center"src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF" alt="Htet's Reddit Account"/></a><a href="https://stackoverflow.com/users/15081578/htetoh" target="blank"><img align="center"src="https://img.shields.io/badge/Stackoverflow-gray?style=for-the-badge&logo=Stackoverflow&logoColor=ffffff" alt="Htet's Stackoverflow" /></a>
   <a href="https://dev.to/htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Dev.to-3F3F3F?style=for-the-badge&logo=Dev.to" alt="Htet'sDev.to" /> </a>
 <a href="https://codeberg.org/htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Codeberg-BLUE?style=for-the-badge&logo=Codeberg&logocolor=FFFFFF" alt="Htet's Codeberg" /> </a>
-<a href="https://Instagram. com/lhtetohl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=INSTAGRAM&logocolor=FFFFFF" alt="Htet's IG" /> </a>
+<a href="https://Instagram. com/lhtetohl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=INSTAGRAM&logocolor=000000" alt="Htet's IG" /> </a>
 
 </p>
 
