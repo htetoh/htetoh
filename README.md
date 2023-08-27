@@ -6,7 +6,7 @@
   <a href="https://reddit.com/u/htet9th" target="blank"><img align="center"src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF" alt="Htet's Reddit Account"/></a>  <a href="https://stackoverflow.com/users/15081578/htetoh" target="blank"><img align="center"src="https://img.shields.io/badge/Stackoverflow-gray?style=for-the-badge&logo=Stackoverflow&logoColor=ffffff" alt="Htet's Stackoverflow" /></a>
   <a href="https://dev.to/htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Dev.to-3F3F3F?style=for-the-badge&logo=Dev.to" alt="Htet'sDev.to" /></a>
 <a href="https://gitlab.com/htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/GITLAB-fca326?style=for-the-badge&logo=Gitlab&logoColor=FFFFFF" alt="Htet's GitLab Acc" /></a>
-  <a href="https://codeberg.org/htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/CODEBERG-00008B?style=for-the-badge&logo=Codeberg&logoColor=FFFFFF" alt="Htet's Codeberg" /> </a>
+  <a href="https://codeberg.org/htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/CODEBERG-0F52BA?style=for-the-badge&logo=Codeberg&logoColor=FFFFFF" alt="Htet's Codeberg" /> </a>
   <a href="https://replit.com/@htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Replit-e9692c?style=for-the-badge&logo=Replit&logoColor=FFFFFF" alt="Htet's Replit" /> </a>
 </p>
 
