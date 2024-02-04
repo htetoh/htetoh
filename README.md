@@ -13,7 +13,7 @@
   <a href="https://replit.com/@htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Replit-e9692c?style=for-the-badge&logo=Replit&logoColor=FFFFFF" alt="Htet's Replit" /> </a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=htetoh&theme=tokyonight)
+![--//-- GitHub stats](https://github-readme-stats.vercel.app/api?username=htetoh&theme=tokyonight)
 
 <!--
 **htetoh/htetoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
