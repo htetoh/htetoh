@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data%2Fnight%20code.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetoh&label=Profile%20views&color=0e75b6&style=for-the-badge" /></p>
 <h3 align="left">Profiles</h3>
 <p align="left">
@@ -10,7 +12,7 @@
   <a href="https://codeberg.org/htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/CODEBERG-0F52BA?style=for-the-badge&logo=Codeberg&logoColor=FFFFFF" alt="Htet's Codeberg" /> </a>
   <a href="https://replit.com/@htetoh" target="blank"><img align="center" src="https://img.shields.io/badge/Replit-e9692c?style=for-the-badge&logo=Replit&logoColor=FFFFFF" alt="Htet's Replit" /> </a>
 </p>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=htetoh&theme=tokyonight)
 
 <!--
 **htetoh/htetoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
