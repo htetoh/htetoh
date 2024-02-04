@@ -1,4 +1,4 @@
-![github-header-image](https://camo.githubusercontent.com/752fcc9f8c57cd001786b89f4d3b2bb2d04f9984528bad28d5db44c4bab5c28e/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966)
+![github-header-image](- - / / - -)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetoh&label=Profile%20views&color=0e75b6&style=for-the-badge" /></p>
 <h3 align="left">Profiles</h3>
