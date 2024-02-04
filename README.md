@@ -1,4 +1,4 @@
-![github-header-image]()
+![github-header-image](https://github.com/htetoh/htetoh/blob/main/.github/images/dino.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetoh&label=Profile%20views&color=0e75b6&style=for-the-badge" /></p>
 <h3 align="left">Profiles</h3>
